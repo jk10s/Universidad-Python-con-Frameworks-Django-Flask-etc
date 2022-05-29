@@ -1,0 +1,6 @@
+paradigma de programacion es la clasificacion de los lenguajes de progracion en funcion de se caracteristica
+
+impertativo su principal caracteristica es que es secuencial
+declarativo no se necesita definir algortimos puesto que describe el problema en lugar de encontrar una solucion
+orinetada a objetos representan modelos de objetos 
+reactiva se basa en escuchar  lo que emite un evento o cambios en el flujo de datos en donde los objetos reaccionan los valores de dicho cambio
